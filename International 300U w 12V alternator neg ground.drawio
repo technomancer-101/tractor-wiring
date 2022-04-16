@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T01:44:50.777Z" agent="5.0 (Windows)" etag="t_jw0cW4r2LXOobdJLOL" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-16T01:49:29.130Z" agent="5.0 (Windows)" etag="QFVD_NwF9wpF8VESm6el" version="17.4.5" type="github">
   <diagram id="0mdSYScjWCPgBPlkuswg" name="Page-1">
-    <mxGraphModel dx="1233" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1918" dy="1667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -376,6 +376,9 @@
               <mxPoint x="170" y="170" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Z7ZbEPt0gSPzM43egvNZ-130" value="&lt;div&gt;&lt;b&gt;NOTES:&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;WARNING LIGHT TO BE RATED ~200ma @ 12 VOLTS (#57, 168, 194, 1815, OR SIMILAR)&lt;/li&gt;&lt;li&gt;BALLAST RESISTOR = GENERIC CHRYSLER STYLE (NAPA PART #13 ICR OR EQUIVALENT)&lt;/li&gt;&lt;li&gt;STARTER SOLENOID TO BE 4-TERMINAL FORD STYLE (SEE NOTE #4)&lt;/li&gt;&lt;li&gt;A 3-TERMINAL SOLENOID CAN BE SUBSTITUTED. SIMPLY OMIT THE WIRE BETWEEN&lt;br&gt;THE &quot;I&quot; TERMINAL AND THE BALLAST RESISTOR&lt;/li&gt;&lt;li&gt;SOLENOID BASE MUST BE GROUNDED&lt;/li&gt;&lt;li&gt;REVERSE CONNECTIONS TO AMMETER IF IT READS &quot;BACKWARD&quot; AFTER CONVERSION&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry y="910" width="650" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
